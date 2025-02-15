@@ -1,3 +1,5 @@
+import { h as _h } from "vue";
+
 module.exports =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
